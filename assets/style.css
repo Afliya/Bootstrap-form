@@ -1,0 +1,37 @@
+.navbar__menu {
+    margin-left: 60%;
+}
+
+.navbar__brandname {
+    margin-left: 10%;
+}
+
+.maincontainer {
+    margin-top: 15px;
+    border-radius: 15px;
+    background-color: white;
+    overflow: hidden;
+}
+
+.modal__heading {
+    font-size: 3em;
+}
+
+.modal__box {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+.card__image {
+    background-color: lightgray;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(86, 85, 85);
+}
+
+.footer {
+    margin-top: 15px;
+}
